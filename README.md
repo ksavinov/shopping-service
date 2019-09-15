@@ -19,3 +19,5 @@ Maven,
 Spring Boot
 
 Spring MVC
+
+![alt text](https://github.com/ksavinov/shopping-service/raw/master/media/image.jpg)
