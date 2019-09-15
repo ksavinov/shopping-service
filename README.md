@@ -20,4 +20,5 @@ Spring Boot
 
 Spring MVC
 
+**Картинка**
 ![alt text](https://github.com/ksavinov/shopping-service/raw/master/media/image.jpg)
